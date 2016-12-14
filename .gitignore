@@ -1,2 +1,5 @@
 ##comment
 *.txt
+!ign1.txt
+!ign3.txt
+
